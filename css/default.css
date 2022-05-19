@@ -72,6 +72,20 @@ a {
     margin-left: 5px;
 }
 
+.say1 {
+    margin-left: 5px;
+    color: cadetblue;
+}
+
+.say2 {
+    margin-left: 5px;
+    color: deepskyblue;
+}
+
+.say3 {
+    margin-left: 5px;
+}
+
 .space {
     margin-right: 150px;
 }
